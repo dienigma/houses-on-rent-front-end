@@ -1,0 +1,23 @@
+.card {
+  width: 25rem;
+  float: right;
+  height: 100vh;
+  text-align: center;
+  box-shadow: 5px 5px grey;
+  margin: 10 10 10 10;
+}
+
+.card-title {
+  margin-top: 15rem;
+  margin-bottom: 0.75rem;
+}
+
+h5.card-title {
+  font-size: 2rem;
+  color: white;
+}
+
+p.card-text {
+  font-size: 2rem;
+  color: white;
+}
